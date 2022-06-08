@@ -4,5 +4,6 @@ This is my first flutter app, which is simple music player 🎵, where the user 
 ![Intro Page of the App](https://raw.githubusercontent.com/NyanCyanide/MusioPhile/master/assets/pic1.png)
 
 ## When an Album is pressed
+The user has the option to pause, play and seek to the particular time of the music.
 ![When album of the song is pressed](https://raw.githubusercontent.com/NyanCyanide/MusioPhile/master/assets/pic2.png)
 Any Corrections are welcomed!
