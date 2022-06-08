@@ -1,16 +1,8 @@
-# musicplayer
+# MusioPhile
+This is my first flutter app, which is simple music player 🎵, where the user can choose song to play, As this is my first flutter app, I have not added much functionalities or there might be some bugs where I might not have noticed. This App requires Internet Connection to play the music!
+## First Page of the App
+![Intro Page of the App](https://raw.githubusercontent.com/NyanCyanide/MusioPhile/master/assets/pic1.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## When an Album is pressed
+![When album of the song is pressed](https://raw.githubusercontent.com/NyanCyanide/MusioPhile/master/assets/pic2.png)
+Any Corrections are welcomed!
